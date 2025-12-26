@@ -1,0 +1,5 @@
+python-dotenv
+pymongo
+paramiko==2.12.0
+sshtunnel
+pandas
