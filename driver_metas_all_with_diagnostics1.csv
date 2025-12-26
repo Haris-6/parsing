@@ -1,0 +1,132 @@
+driver_id,driver_db_id,cycleRule,timezone,splitShiftActive,driveSeconds,onDutySeconds,cycleSeconds,remainingDriveMinutes,remainingShiftMinutes,breakRemainingMinutes,violation active,last7Days violation,violation patterns,last7Days pti_violations,pti_violation patterns,speed,latitude,longitude,Address,dataDate
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,172798,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.721
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,259197,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.769
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,345596,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.812
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,345596,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.873
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,431995,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.912
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,518394,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.941
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,604793,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.970
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,691192,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:06.999
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,777591,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:07.033
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,863990,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:07.078
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,950389,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:07.107
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,71999,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:07.138
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,71999,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-04 18:20:07.169
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,158398,0,0,0,0,[0],0,[],0,[],,38.6766579,-121.3428962,"10.64 mi SW of Sacramento, CA",2025-09-04 18:20:07.197
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],,37.5108513,-120.867678,"1.64 mi SE of Turlock, CA",2025-09-04 18:20:07.223
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],,37.5108513,-120.867678,"1.64 mi SE of Turlock, CA",2025-09-05 20:56:16.288
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],-120.867678,37.5108513,-120.867678,"3.25 mi NW of Stockton, CA",2025-09-08 22:14:51.278
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,31662,21119,31662,763,943,0,[0],0,[],0,[],,39.28716,-120.6979783,"1.52 mi NE of Emigrant Gap, CA",2025-09-08 22:14:51.313
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,31662,0,0,0,[0],0,[],0,[],,37.9352247,-121.2409353,"3.20 mi NW of Stockton, CA",2025-09-08 22:14:51.348
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],,37.934599,-121.2403634,"0.02 mi SSW Kennedy, CA",2025-09-09 07:03:41.340
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,22702,7507,22702,378,528,0,[0],0,[],0,[],-121.2409353,37.9352247,-121.2409353,"3.20 mi NW of Stockton, CA",2025-09-12 14:09:33.814
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,60980,22702,0,0,0,[0],0,[],1,['2'],,37.9346033,-121.240359,"0.02 mi SSW Kennedy, CA",2025-09-12 14:09:33.859
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],,37.9356738,-121.237701,"0.04 mi SW Kennedy, CA",2025-09-12 14:09:33.904
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,26304,11905,26304,438,487,198,[0],0,[],0,[],-121.2403587,37.9346027,-121.2403587,"0.02 mi SSW Kennedy, CA",2025-09-15 14:51:47.042
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,33755,2464,84262,562,689,0,[0],0,[],2,['2'],,37.5108623,-120.8676643,"0.01 mi NNE Turlock, CA",2025-09-15 14:51:47.175
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,32177,7715,67433,536,714,0,[0],0,[],4,['2'],,37.9345936,-121.2413285,"0.01 mi WNW Stockton, CA",2025-09-15 14:51:47.231
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,30343,14466,62520,613,793,0,[0],0,[],3,['2'],,39.6099283,-119.2125504,"0.03 mi N Fernley, NV",2025-09-16 11:26:12.490
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,9934,9934,72454,165,175,165,[0],0,[],2,['2'],,37.9347995,-121.2401759,"0.01 mi NNW Stockton, CA",2025-09-17 08:32:14.894
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,6098,6098,86323,101,110,101,[0],0,[],4,['1'],,37.9360889,-121.2397537,"0.03 mi WSW Kennedy, CA",2025-09-18 09:45:26.100
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,7451,7451,31337,124,133,124,[0],0,[],3,['1'],-121.2397537,37.9360889,-121.2397537,"0.03 mi WSW Kennedy, CA",2025-09-19 11:18:06.215
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,9664,6519,67640,161,178,161,[9],9,"['eleven_hour_drive', 'fourteen_hour_shift']",3,['2'],,37.9355684,-121.2399226,"0.00 mi W Stockton, CA",2025-09-20 17:20:58.986
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,55997,207988,123,0,0,[4],4,"['eleven_hour_drive', 'fourteen_hour_shift']",4,['2'],,37.9347996,-121.2414394,"0.01 mi NW Stockton, CA",2025-09-21 09:57:29.747
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,40744,99913,0,0,0,[4],4,"['eleven_hour_drive', 'fourteen_hour_shift']",3,['2'],,37.5084306,-120.872132,"0.04 mi W Turlock, CA",2025-09-22 11:08:04.505
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,41806,109548,0,0,0,[5],5,"['eleven_hour_drive', 'fourteen_hour_shift']",4,['2'],,37.5084306,-120.872132,"0.04 mi W Turlock, CA",2025-09-23 10:46:05.692
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,46799,91698,0,0,0,[0],0,[],0,[],,37.9340125,-121.2409621,,2025-09-24 09:58:33.151
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,39595,15710,131293,809,989,0,[0],0,[],3,['2'],,37.684722,-121.8093376,"Livermore, CA",2025-09-25 00:00:04.640
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,32545,3982,163838,561,741,0,[0],0,[],5,['2'],,37.6849535,-121.8063485,"Livermore, CA",2025-09-26 07:21:30.227
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,15586,527,179424,259,391,8,[0],0,[],2,['2'],,37.5568763,-120.9085595,"0.01 mi WSW Keyes, CA",2025-09-27 17:37:03.449
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,67838,197825,155,0,0,[0],0,[],0,[],,37.9275598,-121.2935953,"0.02 mi N Stockton, CA",2025-09-28 19:54:06.581
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,9485,1267,229262,226,178,158,[0],0,[],2,['2'],,37.9349703,-121.2400639,"0.05 mi NW Stockton, CA",2025-09-29 09:29:51.542
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,59015,253255,0,0,0,[0],0,[],0,[],,37.9346149,-121.240392,"0.03 mi SW Kennedy, CA",2025-09-30 11:34:51.887
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,37444,277579,0,0,0,[0],0,[],0,[],,35.6141399,-119.6581451,"0.06 mi W Lost Hills, CA",2025-10-01 14:38:35.374
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,123843,0,0,0,0,[0],0,[],0,[],,34.5607003,-117.39179,"0.04 mi SW Adelanto, CA",2025-10-02 18:33:51.218
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,210242,0,0,0,0,[0],0,[],0,[],,37.9344746,-121.2403944,"0.00 mi NNW Stockton, CA",2025-10-03 09:08:32.869
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,71235,0,0,0,0,[0],0,[],0,[],,37.934517,-121.2403302,"0.04 mi WSW Kennedy, CA",2025-10-05 00:27:54.602
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,3421,4432,36445,57,163,0,[0],0,[],2,['2'],,37.6849108,-121.8063445,"0.07 mi W Livermore, CA",2025-10-05 09:44:20.775
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,49596,66214,0,0,0,[0],0,[],0,[],,37.6849307,-121.8063535,"0.07 mi W Livermore, CA",2025-10-06 12:00:41.080
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,0,0,0,0,[0],0,[],0,[],,37.719684,-121.657615,"0.03 mi NNW Livermore, CA",2025-10-07 12:14:17.296
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,86399,0,0,0,0,[0],0,[],0,[],-121.8063427,37.6849006,-121.8063427,"Livermore, CA",2025-10-07 23:55:25.964
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,0,0,0,0,[0],0,[],0,[],,37.9125399,-121.288905,"Stockton, CA",2025-10-08 07:09:48.810
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,26537,0,262,442,0,[0],0,[],1,['2'],,38.11723,-121.3942038,"0.06 mi NNW Lodi, CA",2025-10-08 09:42:50.116
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,62005,0,853,1033,0,[0],0,[],1,['2'],,37.9347318,-121.240264,"Stockton, CA",2025-10-08 19:13:10.148
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,25172,32520,25172,863,1043,0,[0],0,[],0,[],,39.287506,-120.697235,"0.09 mi SE Emigrant Gap, CA",2025-10-09 12:39:17.848
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,32465,11286,57637,606,786,0,[0],0,[],0,[],,37.9125735,-121.2889288,"Stockton, CA",2025-10-11 09:41:00.826
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,57637,0,0,0,[0],0,[],0,[],,37.9343491,-121.2405829,"Stockton, CA",2025-10-11 09:41:00.874
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,15079,3205,15079,251,292,53,[0],0,[],0,[],,37.9343531,-121.240585,"0.02 mi WSW Kennedy, CA",2025-10-13 08:56:15.533
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,644,27886,0,10,0,[0],0,[],0,[],,34.9920503,-117.5428464,"0.02 mi ESE Boron, CA",2025-10-13 08:56:15.582
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,8089,1033,62783,134,163,134,[0],0,[],0,[],,37.9344411,-121.2405395,"0.02 mi WSW Kennedy, CA",2025-10-14 14:48:45.377
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,56709,88208,0,0,0,[0],0,[],0,[],,37.5108742,-120.8676381,"0.01 mi N Turlock, CA",2025-10-15 07:17:50.619
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,37667,18115,125875,820,1000,0,[0],0,[],0,[],,37.5085558,-120.872134,"0.04 mi N Turlock, CA",2025-10-16 09:53:33.174
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,24342,35968,150217,841,1021,0,[0],0,[],0,[],,39.6158645,-119.2184569,"0.01 mi WNW Fernley, NV",2025-10-17 11:18:43.956
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,59774,166536,0,0,0,[0],0,[],0,[],,37.9341684,-121.2407158,"0.01 mi NW Kennedy, CA",2025-10-18 07:03:20.048
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,0,0,0,0,[0],0,[],0,[],,37.9349724,-121.2400421,"0.05 mi WNW Stockton, CA",2025-10-20 10:55:19.123
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,23799,13570,23799,497,677,0,[0],0,[],0,[],,39.286853,-120.698539,"0.09 mi SSE Emigrant Gap, CA",2025-10-20 10:55:19.169
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,23799,0,0,0,[0],0,[],0,[],,37.9344378,-121.240499,"0.02 mi ESE Stockton, CA",2025-10-21 06:14:38.857
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,0,0,0,0,[0],0,[],0,[],-121.240547,37.934444,-121.240547,"0.02 mi ESE Stockton, CA",2025-10-24 21:42:50.602
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,12978,7903,12978,219,399,0,[0],0,[],0,[],,37.8014264,-121.2861308,"Lathrop, CA",2025-10-24 21:42:50.656
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,17999,12978,0,0,0,[0],0,[],0,[],,37.9345128,-121.2404183,"0.04 mi E Kennedy, CA",2025-10-24 21:42:50.706
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,76979,0,0,0,0,[0],0,[],0,[],-121.240447,37.93452,-121.240447,"0.04 mi E Kennedy, CA",2025-10-27 16:31:45.670
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,19034,323,19034,317,405,87,[0],0,[],0,[],,37.9376973,-121.2972251,"0.63 mi E The Homestead (historical), CA",2025-10-27 16:31:45.693
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,72102,32150,0,0,0,[0],0,[],0,[],,37.893859,-121.2828603,"0.93 mi SE French Camp, CA",2025-10-27 16:31:45.718
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,18750,1978,18750,312,358,0,[0],0,[],0,[],,37.9380709,-121.2974092,"0.64 mi E The Homestead (historical), CA",2025-10-28 07:11:52.354
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,72651,31828,0,0,0,[0],0,[],0,[],,34.0619766,-117.5706522,"0.92 mi WNW Guasti, CA",2025-10-29 22:23:37.084
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,23314,35805,55142,859,1039,0,[0],0,[],0,[],,37.5092367,-120.8740748,"1.78 mi SE Turlock, CA",2025-10-30 07:10:18.507
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,54908,79693,0,0,0,[0],0,[],0,[],,37.9350195,-121.2400306,"0.78 mi WSW Kennedy, CA",2025-10-31 10:21:11.749
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39599,0,0,0,0,[0],0,[],0,[],-121.240005,37.935066,-121.240005,"0.78 mi WSW Kennedy, CA",2025-11-03 12:06:57.924
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,23613,279,23613,393,412,393,[0],0,[],0,[],,37.5099095,-120.8745727,"1.86 mi SE Turlock, CA",2025-11-03 12:06:57.995
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,23546,14960,47159,477,657,0,[0],0,[],0,[],,37.5092973,-120.8740667,"1.85 mi SE Turlock, CA",2025-11-03 12:06:58.062
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,274157,0,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-06 19:46:13.036
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,187758,0,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-06 19:46:15.016
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,101359,47159,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-06 19:46:16.052
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,360556,0,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-07 08:00:08.354
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,446955,0,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-08 08:00:10.763
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,533354,0,0,0,0,[0],0,[],0,[],-120.874092,37.509258,-120.874092,"1.85 mi SE Turlock, CA",2025-11-09 08:00:11.076
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,619753,0,0,0,0,[0],0,[],0,[],,37.9347498,-121.2411248,"0.72 mi WSW Kennedy, CA",2025-11-10 08:00:10.084
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,29957,16592,29957,685,865,0,[0],0,[],0,[],,39.286693,-120.698989,"1.49 mi ENE Emigrant Gap, CA",2025-11-11 08:00:14.217
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,102991,29957,0,0,0,[0],0,[],0,[],,37.9344819,-121.2405034,"0.74 mi WSW Kennedy, CA",2025-11-12 08:00:13.066
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,35177,19708,35177,854,1034,0,[0],0,[],0,[],,37.743762,-122.191375,"0.65 mi SSE Brookfield Village, CA",2025-11-13 08:00:15.366
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,56091,45894,0,0,0,[0],0,[],0,[],,37.9342417,-121.2406762,"1.11 mi WSW Kennedy, CA",2025-11-14 08:00:16.002
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,142490,0,0,0,0,[0],0,[],0,[],-121.240692,37.93423,-121.240692,"1.11 mi WSW Kennedy, CA",2025-11-15 08:00:03.242
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,228889,0,0,0,0,[0],0,[],0,[],,37.9347118,-121.2402359,"0.76 mi WSW Kennedy, CA",2025-11-16 08:00:03.768
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,30948,2938,30948,515,647,0,[0],0,[],0,[],,38.6375262,-121.4113254,"0.66 mi W Del Paso Heights, CA",2025-11-17 08:00:09.701
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,89337,30948,0,0,0,[0],0,[],0,[],,37.9345268,-121.2403494,"0.72 mi WSW Kennedy, CA",2025-11-18 08:00:08.482
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,27502,5541,27502,658,838,0,[0],0,[],0,[],,36.5127312,-120.4667738,"2.13 mi NNW Panoche Junction, CA",2025-11-19 08:00:13.720
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,26359,20896,53861,684,864,0,[0],0,[],0,[],,37.9353311,-121.2398166,"0.91 mi WSW Kennedy, CA",2025-11-20 08:00:08.779
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,107295,53861,0,0,0,[0],0,[],0,[],-121.239639,37.935462,-121.239639,"0.91 mi WSW Kennedy, CA",2025-11-21 08:00:01.754
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,193694,0,0,0,0,[0],0,[],0,[],-121.239639,37.935462,-121.239639,"0.91 mi WSW Kennedy, CA",2025-11-22 08:01:19.222
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,280093,0,0,0,0,[0],0,[],0,[],,37.9337787,-121.2423092,"0.70 mi WSW Kennedy, CA",2025-11-23 08:00:00.559
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,39313,28748,0,0,0,[0],0,[],0,[],,37.8940493,-121.2830367,"0.95 mi SE French Camp, CA",2025-11-24 08:00:00.873
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,125712,0,0,0,0,[0],0,[],0,[],-121.283081,37.894039,-121.283081,"Kennedy, CA",2025-11-25 08:00:16.662
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,212111,0,0,0,0,[0],0,[],0,[],-121.283081,37.894039,-121.283081,"Kennedy, CA",2025-11-26 08:00:01.763
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,298510,0,0,0,0,[0],0,[],0,[],-121.283081,37.894039,-121.283081,"Kennedy, CA",2025-11-27 08:00:04.143
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,384909,0,0,0,0,[0],0,[],0,[],-121.283081,37.894039,-121.283081,"Kennedy, CA",2025-11-28 08:01:45.971
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,471308,0,0,0,0,[0],0,[],0,[],-121.283081,37.894039,-121.283081,"Kennedy, CA",2025-11-29 08:00:18.640
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,557707,0,0,0,0,[0],0,[],0,[],,37.9350655,-121.2399692,"0.72 mi WSW Kennedy, CA",2025-11-30 08:00:04.676
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,45447,24974,0,0,0,[0],0,[],0,[],,38.1186499,-121.3924053,"4.89 mi ESE Henderson Village, CA",2025-12-01 08:01:26.900
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,48597,51948,0,0,0,[0],0,[],0,[],,37.9347925,-121.2411166,"0.72 mi WSW Kennedy, CA",2025-12-02 08:00:03.807
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,23870,7163,75818,447,627,0,[0],0,[],0,[],,34.720706,-118.799179,"0.08 mi SE Caswell, CA",2025-12-03 08:00:39.082
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,28839,14874,104657,605,785,0,[0],0,[],0,[],,37.5091986,-120.8741615,"1.51 mi ESE Turlock, CA",2025-12-04 08:00:27.134
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,5720,1990,110377,145,325,0,[0],0,[],0,[],,37.6840888,-121.8089199,"1.45 mi WSW East Pleasanton, CA",2025-12-05 08:02:32.948
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,5316,24161,119198,485,665,0,[0],0,[],0,[],,37.9342324,-121.2406615,"1.31 mi NNE Garden Acres, CA",2025-12-06 08:00:31.029
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,110560,119198,0,0,0,[0],0,[],0,[],-121.240653,37.934207,-121.240653,"1.31 mi NNE Garden Acres, CA",2025-12-07 08:00:21.158
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,196959,0,0,0,0,[0],0,[],0,[],-121.240653,37.934207,-121.240653,"1.31 mi NNE Garden Acres, CA",2025-12-08 08:00:30.655
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,283358,0,0,0,0,[0],0,[],0,[],,37.9345199,-121.240382,"0.74 mi WSW Kennedy, CA",2025-12-09 08:00:45.576
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,30494,16367,30494,799,979,0,[0],0,[],0,[],,37.5108427,-120.8677026,"1.61 mi SE Turlock, CA",2025-12-10 08:00:22.384
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,13916,16983,44410,467,647,0,[0],0,[],0,[],,37.9191899,-121.2288673,"1.50 mi WNW Kennedy, CA",2025-12-11 08:00:29.156
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,103382,44410,0,0,0,[0],0,[],0,[],-121.239234,37.935874,-121.239234,"1.33 mi SW Kennedy, CA",2025-12-12 08:00:35.212
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,189781,0,0,0,0,[0],0,[],0,[],-121.239234,37.935874,-121.239234,"1.33 mi SW Kennedy, CA",2025-12-13 08:00:29.964
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,276180,0,0,0,0,[0],0,[],0,[],-121.239234,37.935874,-121.239234,"1.33 mi SW Kennedy, CA",2025-12-14 08:00:25.240
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,362579,0,0,0,0,[0],0,[],0,[],,37.9349171,-121.2401162,"0.71 mi WSW Kennedy, CA",2025-12-15 08:00:33.311
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,48089,24107,0,0,0,[0],0,[],0,[],,37.9349401,-121.2400946,"0.77 mi WSW Kennedy, CA",2025-12-16 08:00:42.116
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,134488,0,0,0,0,[0],0,[],0,[],-119.219818,39.609771,-119.219818,"Kennedy, CA",2025-12-17 08:00:34.931
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,220887,0,0,0,0,[0],0,[],0,[],-119.219818,39.609771,-119.219818,"Kennedy, CA",2025-12-18 08:00:43.804
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,307286,0,0,0,0,[0],0,[],0,[],-119.219818,39.609771,-119.219818,"Kennedy, CA",2025-12-19 08:00:36.910
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,393685,0,0,0,0,[0],0,[],0,[],-119.219818,39.609771,-119.219818,"Kennedy, CA",2025-12-20 08:00:42.710
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,480084,0,0,0,0,[0],0,[],0,[],,37.9349407,-121.2400431,"0.77 mi WSW Kennedy, CA",2025-12-21 08:00:31.401
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,37512,35589,0,0,0,[0],0,[],0,[],,37.8549798,-121.2823981,"2.11 mi NNE French Camp, CA",2025-12-22 08:00:37.991
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,24359,587,59948,405,478,189,[0],0,[],0,[],,36.4123042,-120.37344,"4.44 mi NNW Giffen Cantua Ranch, CA",2025-12-23 08:00:50.754
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,28573,10813,88521,614,794,0,[0],0,[],0,[],,37.9355003,-121.2396443,"1.00 mi WSW Kennedy, CA",2025-12-24 08:00:42.283
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,97212,88521,0,0,0,[0],0,[],0,[],-121.23928,37.935943,-121.23928,"1.00 mi WSW Kennedy, CA",2025-12-25 08:00:21.788
+6374,68b89c384f65cd554d75123f,USA Property 70 Hour / 8 Day,America/Los_Angeles,False,0,104462,88521,0,0,0,[0],0,[],0,[],-121.23928,37.935943,-121.23928,"1.00 mi WSW Kennedy, CA",2025-12-26 09:21:47.758

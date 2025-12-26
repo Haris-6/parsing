@@ -129,6 +129,7 @@ with SSHTunnelForwarder(
         record = {
             # Driver info
             "driver_id": driver.get("driverId") if driver else None,
+            
             "cycleRule": driver.get("cycleRule") if driver else None,
             "timezone": driver_timezone,
             "splitShiftActive": clock.get("isSplitActive", False),
