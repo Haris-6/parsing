@@ -1,0 +1,78 @@
+driver_id,cycleRule,timezone,splitShiftActive,driveSeconds,onDutySeconds,cycleSeconds,remainingDriveMinutes,remainingShiftMinutes,breakRemainingMinutes,violation active,last7Days violation,violation patterns,last7Days pti_violations,pti_violation patterns,speed,latitude,longitude,Address,dataDate
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.656
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,172798,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.682
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,259197,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.708
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,345596,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.732
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,431995,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.756
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,518394,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.786
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,604793,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.811
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,691192,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.835
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,777591,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.859
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,863990,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.885
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,950389,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.914
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1036788,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.938
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1123187,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.963
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1209586,0,0,0,0,[0],0,[],0,[],0,0.0,0.0,,2025-09-20 20:58:44.987
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1295985,0,0,0,0,[0],0,[],0,[],,37.790936385860896,-121.31426085289476,"0.01 mi NNE Lathrop, CA",2025-09-20 20:58:45.012
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1382384,0,0,0,0,[0],0,[],0,[],-121.31426085289476,37.790936385860896,-121.31426085289476,,2025-09-22 04:00:23.399
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,13395,13395,13395,223,235,223,[0],0,[],0,[],,35.312061,-118.999916,"0.03 mi E Bakersfield, CA",2025-09-22 04:00:23.416
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,71337,26416,0,0,0,[0],0,[],1,['2'],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-23 04:45:22.705
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,157736,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-24 04:03:07.942
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,186540,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-25 04:14:32.750
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,272939,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-26 15:21:51.562
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,359338,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-27 15:54:13.441
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,618535,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-30 19:20:07.395
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,445737,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-30 19:20:07.433
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,532136,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-09-30 19:20:07.458
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,704934,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-01 04:00:38.765
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,791333,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-02 18:43:53.929
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,877732,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-07 19:35:24.535
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,964131,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-07 19:35:24.552
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1050530,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-07 19:35:24.568
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1136929,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-07 19:35:24.583
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1193053,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-07 19:35:24.598
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1279452,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-10 02:07:42.587
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1359114,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-10 02:07:42.608
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1445513,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-11 06:36:07.089
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1454880,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-11 06:36:07.108
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.379
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,172798,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.398
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,259197,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.414
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,345596,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.429
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,431995,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.446
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,490465,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-19 20:14:30.467
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,576864,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.088
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,663263,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.106
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,749662,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.122
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,836061,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.140
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,922460,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.159
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1008859,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-25 11:49:09.178
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1037008,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-26 17:15:42.319
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1084750,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-27 10:46:18.487
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1195527,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-29 07:05:23.556
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1171149,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-10-29 07:05:28.602
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-01 15:28:14.451
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,127693,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-01 15:28:14.466
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-04 21:17:22.807
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,138368,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-05 15:18:25.087
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,182982,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-06 17:23:34.421
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1,0,0,0,0,[0],0,[],0,[],,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-11-07 19:43:27.323
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-08 03:46:59.587
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,214092,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-08 03:46:59.617
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,97522,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-08 03:46:59.644
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1541279,0,0,0,0,[0],0,[],0,[],-116.691429,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-08 03:46:59.716
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,1627678,0,0,0,0,[0],0,[],0,[],,34.829322,-116.691429,"0.03 mi ESE Newberry Springs, CA",2025-11-08 03:46:59.744
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,17218,17218,72861,286,296,286,[0],0,[],2,['2'],,34.972126132525446,-116.62491258169891,"1.87 mi ENE Manix, CA",2025-12-22 23:45:48.935
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,86399,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.115
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,172798,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.191
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,259197,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.271
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,345596,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.343
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,431995,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.413
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,518394,0,0,0,0,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.520
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,9223,9223,34479,153,170,153,[0],0,[],0,[],-121.29896066557421,37.93768459364449,-121.29896066557421,"0.71 mi E The Homestead (historical), CA",2025-12-23 00:37:36.627
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,18591,18591,112385,309,324,309,[0],0,[],3,['2'],,41.314971,-110.50859,"6.31 mi SE Millburne, WY",2025-12-23 05:50:32.278
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,22296,18562,142816,523,703,0,[0],0,[],4,['2'],,41.100181,-100.726112,"1.80 mi NW Sioux View Park, NE",2025-12-24 06:01:33.773
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,28101,35588,170917,964,1144,0,[0],0,[],5,['2'],,42.26718377335365,-85.267882425416,"3.13 mi SE Sonoma, MI",2025-12-25 05:09:12.380
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,0,71364,181270,0,0,0,[0],0,[],2,['2'],,40.111576,-83.002716,"1.10 mi N Flint, OH",2025-12-26 05:00:03.701
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,23680,5819,23680,394,533,0,[0],0,[],6,['1'],,39.762928,-92.56137,"1.11 mi S Bevier, MO",2025-12-27 11:00:01.414
+sukh5912,USA Property 70 Hour / 8 Day,America/New_York,False,25756,3600,49436,429,481,60,[0],0,[],3,['2'],,40.69049972318981,-99.55524110513356,"3.29 mi N Overton, NE",2025-12-28 11:00:01.258

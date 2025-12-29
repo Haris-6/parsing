@@ -5,19 +5,36 @@ import pandas as pd
 import urllib.parse
 from datetime import datetime, timedelta
 
+import os
+from dotenv import load_dotenv
 
+# # ---------------- SSH CONFIG ----------------
+# SSH_HOST = ""
+# SSH_PORT = ""
+# SSH_USER = ""
+# SSH_PASSWORD = ""
+
+# # ---------------- MONGO CONFIG ----------------
+# MONGO_USER = ""
+# MONGO_PASSWORD = urllib.parse.quote_plus("")
+# MONGO_DB = ""
+# MONGO_HOST = ""
+# MONGO_PORT = ""
+
+load_dotenv()
 # ---------------- SSH CONFIG ----------------
-SSH_HOST = ""
-SSH_PORT = ""
-SSH_USER = ""
-SSH_PASSWORD = ""
+SSH_HOST = os.getenv("SSH_HOST")
+SSH_PORT = int(os.getenv("SSH_PORT"))
+SSH_USER = os.getenv("SSH_USER")
+SSH_PASSWORD = os.getenv("SSH_PASSWORD")
 
 # ---------------- MONGO CONFIG ----------------
-MONGO_USER = ""
-MONGO_PASSWORD = urllib.parse.quote_plus("")
-MONGO_DB = ""
-MONGO_HOST = ""
-MONGO_PORT = ""
+MONGO_USER = os.getenv("MONGO_USER")
+MONGO_PASSWORD = urllib.parse.quote_plus(os.getenv("MONGO_PASSWORD"))
+MONGO_DB = os.getenv("MONGO_DB")
+MONGO_HOST = os.getenv("MONGO_HOST")
+MONGO_PORT = int(os.getenv("MONGO_PORT"))
+
 
 # -------- INPUT DRIVER ID --------
 DRIVER_ID = ObjectId("68cf142425b5590dd4e8a44a")
