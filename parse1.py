@@ -24,7 +24,7 @@ MONGO_HOST = os.getenv("MONGO_HOST")
 MONGO_PORT = int(os.getenv("MONGO_PORT"))
 
 # -------- INPUT DRIVER ID --------
-DRIVER_ID = ObjectId("68e3ec982b51ef5f625ab138")
+DRIVER_ID = ObjectId("686b6410a2a58a0379e78689")
 
 # -------- HELPER FUNCTIONS --------
 def parse_event_date(event_date_str):
@@ -35,11 +35,6 @@ def parse_event_date(event_date_str):
 
 def end_of_day(dt):
     return dt.replace(hour=23, minute=59, second=59, microsecond=999999)
-
-def normalize_date(dt):
-    if isinstance(dt, datetime):
-        return dt.replace(hour=0, minute=0, second=0, microsecond=0)
-    return None
 
 # -------- SSH TUNNEL --------
 with SSHTunnelForwarder(
@@ -62,7 +57,7 @@ with SSHTunnelForwarder(
     # -------- DRIVER PROFILE --------
     driver = db.drivers.find_one(
         {"_id": DRIVER_ID},
-        {"driverId": 1, "cycleRule": 1, "timeZone": 1}
+        {"driverId": 1, "cycleRule": 1, "timeZone": 1, "fullName": 1}
     )
 
     # -------- TIMEZONE --------
@@ -90,6 +85,7 @@ with SSHTunnelForwarder(
 
     records = []
     pti_violation_history = []
+    hos_violation_history = []   
 
     for meta in metas_cursor:
         clock = meta.get("clockData", {})
@@ -99,27 +95,29 @@ with SSHTunnelForwarder(
         data_date = meta.get("createdAt")
         last_act = meta.get("lastActivity", {})
 
-        # -------- HOS VIOLATIONS --------
-        seven_days_ago = data_date - timedelta(days=7)
+        # ================= HOS VIOLATIONS (FIXED – ROLLING 7 DAYS) =================
+        hos_violation_history.append({
+            "date": data_date,
+            "violations": violations
+        })
+
         violations_last7Days = 0
-        violation_patterns =[]
+        violation_patterns = []
+        hos_cutoff = data_date - timedelta(days=7)
 
-        for v in violations:
-            started_at = v.get("startedAt", {})
-            event_date = parse_event_date(started_at.get("eventDate"))
-            if event_date and event_date >= seven_days_ago:
-                violations_last7Days += 1
-                if v.get("type"):
-                    violation_patterns.append(v["type"].lower())
+        for entry in hos_violation_history:
+            if entry["date"] >= hos_cutoff:
+                for v in entry["violations"]:
+                    violations_last7Days += 1
+                    if v.get("type"):
+                        violation_patterns.append(v["type"].lower())
 
-        # -------- PTI VIOLATIONS (FIXED: Using Array Length by Date) --------
-        # Save ptiViolation array for each date
+        # ================= PTI VIOLATIONS (UNCHANGED – CORRECT) =================
         pti_violation_history.append({
             "date": data_date,
             "pti": pti_violations
         })
 
-        # Calculate count and patterns from last 7 days
         pti_last7_count = 0
         pti_last7_patterns = []
         pti_cutoff = data_date - timedelta(days=7)
@@ -131,7 +129,7 @@ with SSHTunnelForwarder(
                     if pv.get("type") is not None:
                         pti_last7_patterns.append(str(pv["type"]))
 
-        # -------- MINOR VIOLATIONS --------
+        # ================= MINOR VIOLATIONS (UNCHANGED) =================
         start_date = (data_date - timedelta(days=7)).replace(
             hour=0, minute=0, second=0, microsecond=0
         )
@@ -157,10 +155,29 @@ with SSHTunnelForwarder(
             if tv.get("violationType"):
                 minor_violation_patterns.append(tv["violationType"])
 
-        # -------- FINAL RECORD --------
+
+        # =================  DISTANCE (NEW) =================
+        day_start = data_date.replace(hour=0, minute=0, second=0, microsecond=0)
+        day_end = end_of_day(data_date)
+
+        record_table = db.recordtables.find_one(
+            {
+                "driverId": DRIVER_ID,
+                "createdAt": {"$gte": day_start, "$lte": day_end},
+                "isDeleted": False
+            },
+            {"distance": 1,},
+            sort=[("createdAt", -1)]
+        )
+
+        distance = record_table.get("distance", 0) if record_table else 0
+        driver_name = record_table.get("driverName", 0) if record_table else 0
+
+        # ================= FINAL RECORD =================
         record = {
             "driver_id": driver.get("driverId") if driver else None,
             "driver_db_id": str(DRIVER_ID),
+            "driver_name": driver.get("fullName") if driver else None,
             "cycleRule": driver.get("cycleRule") if driver else None,
             "timezone": driver_timezone,
             "splitShiftActive": clock.get("isSplitActive", False),
@@ -174,26 +191,26 @@ with SSHTunnelForwarder(
 
             "violation active": len(violations),
             "last7Days violation": violations_last7Days,
-            "violation patterns": list(violation_patterns),
+            "violation patterns": violation_patterns,
 
             "last7Days pti_violations": pti_last7_count,
-            "pti_violation patterns": list(pti_last7_patterns),
+            "pti_violation patterns": pti_last7_patterns,
 
             "last7_days_minior_violation": minor_violation_count,
-            "minior_violation_pattern": list(minor_violation_patterns),
+            "minior_violation_pattern": minor_violation_patterns,
 
             "speed": last_act.get("speed"),
             "latitude": last_act.get("latitude"),
             "longitude": last_act.get("longitude"),
             "Address": last_act.get("address"),
-
-            "dataDate": data_date
+            "distance": distance, 
+            "dataDate": data_date.date() if isinstance(data_date, datetime) else data_date
         }
 
         records.append(record)
 
     # -------- SAVE CSV --------
-    df = pd.DataFrame(records).fillna(0)
-    df.to_csv("driver_metas_all_with_diagnostics_update_final10.csv", index=False)
+    df = pd.DataFrame(records).replace("", 0).fillna(0)
+    df.to_csv("driver_metas_all_with_diagnostics_update_final1.csv", index=False)
 
     print(f"Saved {len(df)} records to CSV")
