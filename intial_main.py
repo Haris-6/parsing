@@ -81,8 +81,9 @@ with SSHTunnelForwarder(
 
     for doc in cursor:
         record = {
-            "tenantId": str(get_field(doc, "tenantId")),
+            
             "vehicleId": str(get_field(doc, "vehicleId")),
+            "tenantId": str(get_field(doc, "tenantId")),
             "driverId": str(get_field(doc, "driverId")),
 
             "timeStamp": get_field(doc, "timeStamp"),
